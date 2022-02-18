@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.notedop.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.notedop.testplugin.MyBundle
 
 class MyApplicationService {
 
